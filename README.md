@@ -1,6 +1,7 @@
 # ma1805-interactiveproject2
 
 https://github.com/hayaturki05-pixel/ma1805-interactiveproject2.git
+
 https://hayaturki05-pixel.github.io/ma1805-interactiveproject2/
 
 This is a beat mixer. Whenever you click on a square on that 4x4 grid, its designated beat pops up simultaneously with a dancer. In a sense, this could be considered an interactive game that is rooted in my interests. I find great enjoyment in creating minute-long beats on the GarageBand app; through the sounds of drums, guitars, bass, piano, and others that I discover merge well through the creating process. This can be similarly applied with a 4x4 beat mixer or maker that incorporates these types of beats, as well. This is simpler to implement with just the basis of its clear 4x4 grid as a beginner coder. I am also a dancer. Specifically, a hip hop dancer. Having these two hobbies with practical and seamlessly integrated aspects raised the idea of combining them both into one output.  
